@@ -1,0 +1,335 @@
+{
+  "state": "NT",
+  "source": "NT Government public and regional holidays",
+  "years": [
+    {
+      "year": 2026,
+      "public_holidays": [
+        {
+          "name": "New Year's Day",
+          "date": "2026-01-01",
+          "type": "public_holiday",
+          "region": "NT"
+        },
+        {
+          "name": "Australia Day",
+          "date": "2026-01-26",
+          "type": "public_holiday",
+          "region": "NT"
+        },
+        {
+          "name": "Good Friday",
+          "date": "2026-04-03",
+          "type": "public_holiday",
+          "region": "NT"
+        },
+        {
+          "name": "Easter Saturday",
+          "date": "2026-04-04",
+          "type": "public_holiday",
+          "region": "NT"
+        },
+        {
+          "name": "Easter Sunday",
+          "date": "2026-04-05",
+          "type": "public_holiday",
+          "region": "NT"
+        },
+        {
+          "name": "Easter Monday",
+          "date": "2026-04-06",
+          "type": "public_holiday",
+          "region": "NT"
+        },
+        {
+          "name": "Anzac Day",
+          "date": "2026-04-25",
+          "type": "public_holiday",
+          "region": "NT"
+        },
+        {
+          "name": "May Day",
+          "date": "2026-05-04",
+          "type": "public_holiday",
+          "region": "NT"
+        },
+        {
+          "name": "King's Birthday",
+          "date": "2026-06-08",
+          "type": "public_holiday",
+          "region": "NT"
+        },
+        {
+          "name": "Alice Springs Show Day",
+          "date": "2026-07-03",
+          "type": "regional_public_holiday",
+          "region": "Alice Springs"
+        },
+        {
+          "name": "Tennant Creek Show Day",
+          "date": "2026-07-10",
+          "type": "regional_public_holiday",
+          "region": "Tennant Creek"
+        },
+        {
+          "name": "Katherine Show Day",
+          "date": "2026-07-17",
+          "type": "regional_public_holiday",
+          "region": "Katherine"
+        },
+        {
+          "name": "Darwin Show Day",
+          "date": "2026-07-24",
+          "type": "regional_public_holiday",
+          "region": "Darwin"
+        },
+        {
+          "name": "Picnic Day",
+          "date": "2026-08-03",
+          "type": "public_holiday",
+          "region": "NT"
+        },
+        {
+          "name": "Borroloola Show Day",
+          "date": "2026-08-14",
+          "type": "regional_public_holiday",
+          "region": "Borroloola"
+        },
+        {
+          "name": "Christmas Eve",
+          "date": "2026-12-24",
+          "type": "part_day_public_holiday",
+          "region": "NT",
+          "time": "19:00-24:00"
+        },
+        {
+          "name": "Christmas Day",
+          "date": "2026-12-25",
+          "type": "public_holiday",
+          "region": "NT"
+        },
+        {
+          "name": "Boxing Day",
+          "date": "2026-12-26",
+          "type": "public_holiday",
+          "region": "NT"
+        },
+        {
+          "name": "Boxing Day Monday",
+          "date": "2026-12-28",
+          "type": "public_holiday",
+          "region": "NT"
+        },
+        {
+          "name": "New Year's Eve",
+          "date": "2026-12-31",
+          "type": "part_day_public_holiday",
+          "region": "NT",
+          "time": "19:00-24:00"
+        }
+      ]
+    },
+    {
+      "year": 2027,
+      "public_holidays": [
+        {
+          "name": "New Year's Day",
+          "date": "2027-01-01",
+          "type": "public_holiday",
+          "region": "NT"
+        },
+        {
+          "name": "Australia Day",
+          "date": "2027-01-26",
+          "type": "public_holiday",
+          "region": "NT"
+        },
+        {
+          "name": "Good Friday",
+          "date": "2027-03-26",
+          "type": "public_holiday",
+          "region": "NT"
+        },
+        {
+          "name": "Easter Saturday",
+          "date": "2027-03-27",
+          "type": "public_holiday",
+          "region": "NT"
+        },
+        {
+          "name": "Easter Sunday",
+          "date": "2027-03-28",
+          "type": "public_holiday",
+          "region": "NT"
+        },
+        {
+          "name": "Easter Monday",
+          "date": "2027-03-29",
+          "type": "public_holiday",
+          "region": "NT"
+        },
+        {
+          "name": "Anzac Day",
+          "date": "2027-04-26",
+          "type": "public_holiday",
+          "region": "NT"
+        },
+        {
+          "name": "May Day",
+          "date": "2027-05-03",
+          "type": "public_holiday",
+          "region": "NT"
+        },
+        {
+          "name": "King's Birthday",
+          "date": "2027-06-14",
+          "type": "public_holiday",
+          "region": "NT"
+        },
+        {
+          "name": "Picnic Day",
+          "date": "2027-08-02",
+          "type": "public_holiday",
+          "region": "NT"
+        },
+        {
+          "name": "Christmas Eve",
+          "date": "2027-12-24",
+          "type": "part_day_public_holiday",
+          "region": "NT",
+          "time": "19:00-24:00"
+        },
+        {
+          "name": "Christmas Day",
+          "date": "2027-12-25",
+          "type": "public_holiday",
+          "region": "NT"
+        },
+        {
+          "name": "Christmas Day Additional Holiday",
+          "date": "2027-12-27",
+          "type": "public_holiday",
+          "region": "NT"
+        },
+        {
+          "name": "Boxing Day",
+          "date": "2027-12-26",
+          "type": "public_holiday",
+          "region": "NT"
+        },
+        {
+          "name": "Boxing Day Additional Holiday",
+          "date": "2027-12-28",
+          "type": "public_holiday",
+          "region": "NT"
+        },
+        {
+          "name": "New Year's Eve",
+          "date": "2027-12-31",
+          "type": "part_day_public_holiday",
+          "region": "NT",
+          "time": "19:00-24:00"
+        }
+      ],
+      "notes": "Regional show days for 2027 are not yet confirmed by NT Government."
+    },
+    {
+      "year": 2028,
+      "public_holidays": [
+        {
+          "name": "New Year's Day",
+          "date": "2028-01-01",
+          "type": "public_holiday",
+          "region": "NT"
+        },
+        {
+          "name": "New Year's Day Additional Holiday",
+          "date": "2028-01-03",
+          "type": "public_holiday",
+          "region": "NT"
+        },
+        {
+          "name": "Australia Day",
+          "date": "2028-01-26",
+          "type": "public_holiday",
+          "region": "NT"
+        },
+        {
+          "name": "Good Friday",
+          "date": "2028-04-14",
+          "type": "public_holiday",
+          "region": "NT"
+        },
+        {
+          "name": "Easter Saturday",
+          "date": "2028-04-15",
+          "type": "public_holiday",
+          "region": "NT"
+        },
+        {
+          "name": "Easter Sunday",
+          "date": "2028-04-16",
+          "type": "public_holiday",
+          "region": "NT"
+        },
+        {
+          "name": "Easter Monday",
+          "date": "2028-04-17",
+          "type": "public_holiday",
+          "region": "NT"
+        },
+        {
+          "name": "Anzac Day",
+          "date": "2028-04-25",
+          "type": "public_holiday",
+          "region": "NT"
+        },
+        {
+          "name": "May Day",
+          "date": "2028-05-01",
+          "type": "public_holiday",
+          "region": "NT"
+        },
+        {
+          "name": "King's Birthday",
+          "date": "2028-06-12",
+          "type": "public_holiday",
+          "region": "NT"
+        },
+        {
+          "name": "Picnic Day",
+          "date": "2028-08-07",
+          "type": "public_holiday",
+          "region": "NT"
+        },
+        {
+          "name": "Christmas Eve",
+          "date": "2028-12-24",
+          "type": "part_day_public_holiday",
+          "region": "NT",
+          "time": "19:00-24:00"
+        },
+        {
+          "name": "Christmas Day",
+          "date": "2028-12-25",
+          "type": "public_holiday",
+          "region": "NT"
+        },
+        {
+          "name": "Boxing Day",
+          "date": "2028-12-26",
+          "type": "public_holiday",
+          "region": "NT"
+        },
+        {
+          "name": "New Year's Eve",
+          "date": "2028-12-31",
+          "type": "part_day_public_holiday",
+          "region": "NT",
+          "time": "19:00-24:00"
+        }
+      ],
+      "notes": "Regional show days for 2028 are not yet confirmed by NT Government."
+    }
+  ]
+}

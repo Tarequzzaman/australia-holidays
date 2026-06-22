@@ -1,0 +1,176 @@
+{
+  "state": "NT",
+  "source": "NT Government school term dates",
+  "years": [
+    {
+      "year": 2026,
+      "school_holidays": [
+        {
+          "name": "Term 1 school holidays",
+          "start_date": "2026-04-03",
+          "end_date": "2026-04-13"
+        },
+        {
+          "name": "Term 2 school holidays",
+          "start_date": "2026-06-20",
+          "end_date": "2026-07-13"
+        },
+        {
+          "name": "Term 3 school holidays",
+          "start_date": "2026-09-19",
+          "end_date": "2026-10-05"
+        },
+        {
+          "name": "End of year school holidays",
+          "start_date": "2026-12-11",
+          "end_date": "2027-01-26"
+        }
+      ]
+    },
+    {
+      "year": 2027,
+      "school_holidays": [
+        {
+          "name": "Term 1 school holidays",
+          "start_date": "2027-04-03",
+          "end_date": "2027-04-12"
+        },
+        {
+          "name": "Term 2 school holidays",
+          "start_date": "2027-06-19",
+          "end_date": "2027-07-12"
+        },
+        {
+          "name": "Term 3 school holidays",
+          "start_date": "2027-09-18",
+          "end_date": "2027-10-04"
+        },
+        {
+          "name": "End of year school holidays",
+          "start_date": "2027-12-10",
+          "end_date": "2028-01-24"
+        }
+      ]
+    },
+    {
+      "year": 2028,
+      "school_holidays": [
+        {
+          "name": "Term 1 school holidays",
+          "start_date": "2028-04-08",
+          "end_date": "2028-04-18"
+        },
+        {
+          "name": "Term 2 school holidays",
+          "start_date": "2028-06-24",
+          "end_date": "2028-07-17"
+        },
+        {
+          "name": "Term 3 school holidays",
+          "start_date": "2028-09-23",
+          "end_date": "2028-10-09"
+        },
+        {
+          "name": "End of year school holidays",
+          "start_date": "2028-12-15",
+          "end_date": "2029-01-29"
+        }
+      ]
+    },
+    {
+      "year": 2029,
+      "school_holidays": [
+        {
+          "name": "Term 1 school holidays",
+          "start_date": "2029-04-07",
+          "end_date": "2029-04-16"
+        },
+        {
+          "name": "Term 2 school holidays",
+          "start_date": "2029-06-23",
+          "end_date": "2029-07-16"
+        },
+        {
+          "name": "Term 3 school holidays",
+          "start_date": "2029-09-22",
+          "end_date": "2029-10-08"
+        },
+        {
+          "name": "End of year school holidays",
+          "start_date": "2029-12-14",
+          "end_date": "2030-01-29"
+        }
+      ]
+    },
+    {
+      "year": 2030,
+      "school_holidays": [
+        {
+          "name": "Term 1 school holidays",
+          "start_date": "2030-04-06",
+          "end_date": "2030-04-15"
+        },
+        {
+          "name": "Term 2 school holidays",
+          "start_date": "2030-06-22",
+          "end_date": "2030-07-15"
+        },
+        {
+          "name": "Term 3 school holidays",
+          "start_date": "2030-09-21",
+          "end_date": "2030-10-07"
+        },
+        {
+          "name": "End of year school holidays",
+          "start_date": "2030-12-13",
+          "end_date": "2031-01-28"
+        }
+      ]
+    },
+    {
+      "year": 2031,
+      "school_holidays": [
+        {
+          "name": "Term 1 school holidays",
+          "start_date": "2031-04-05",
+          "end_date": "2031-04-15"
+        },
+        {
+          "name": "Term 2 school holidays",
+          "start_date": "2031-06-21",
+          "end_date": "2031-07-14"
+        },
+        {
+          "name": "Term 3 school holidays",
+          "start_date": "2031-09-20",
+          "end_date": "2031-10-06"
+        },
+        {
+          "name": "End of year school holidays",
+          "start_date": "2031-12-12",
+          "end_date": "2032-01-27"
+        }
+      ]
+    },
+    {
+      "year": 2032,
+      "school_holidays": [
+        {
+          "name": "Term 1 school holidays",
+          "start_date": "2032-04-10",
+          "end_date": "2032-04-19"
+        },
+        {
+          "name": "Term 2 school holidays",
+          "start_date": "2032-06-26",
+          "end_date": "2032-07-19"
+        },
+        {
+          "name": "Term 3 school holidays",
+          "start_date": "2032-09-25",
+          "end_date": "2032-10-11"
+        }
+      ]
+    }
+  ]
+}
