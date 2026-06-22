@@ -4,7 +4,7 @@ from pathlib import Path
 
 from fastapi import FastAPI, HTTPException, Query
 
-app = FastAPI(title="Australia Holidays API")
+app = FastAPI(title="Australian Holidays API")
 
 BASE_DIR = Path(__file__).resolve().parent
 DATA_DIR = BASE_DIR / "data"
