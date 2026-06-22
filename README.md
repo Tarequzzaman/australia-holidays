@@ -1,6 +1,13 @@
-# A
+# Australian Holidays
 
 A simple Australian holidays API providing public holiday and school holiday data. The first version focuses on Northern Territory (NT) holidays, with support for other Australian states and territories planned for future releases.
+
+## To access Live APIs 
+
+Visit: https://australia-holidays.vercel.app/docs
+
+
+# Local Installation: 
 
 ## Requirements
 
