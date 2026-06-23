@@ -91,6 +91,10 @@ def get_school_terms(
     }
 
 
+def is_weekend(date_value: date):
+    return date_value.weekday() >= 5  # 5 = Saturday, 6 = Sunday
+
+
 @app.get("/holidays/check")
 def check_holiday(
     state: str = Query(..., example="NT"),
@@ -128,6 +132,7 @@ def check_holiday(
     return {
         "state": state,
         "date": str(date_value),
+        "is_weekend": is_weekend(date_value),
         "is_public_holiday": public_match is not None,
         "is_school_holiday": school_match is not None,
         "public_holiday": public_match,
